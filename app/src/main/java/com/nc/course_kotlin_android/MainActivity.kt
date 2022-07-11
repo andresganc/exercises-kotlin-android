@@ -29,4 +29,8 @@ class MainActivity : AppCompatActivity() {
     fun showErrorName() {
         Toast.makeText(this, "Add your name", Toast.LENGTH_SHORT).show()
     }
+
+    fun test1() {
+
+    }
 }
